@@ -1,0 +1,28 @@
+header{ background-color: black;}
+h1{ color: ghostwhite;
+text-align: center;}
+section{ background-color:ghostwhite;}
+nav{ background-color: black; font-size:120%;}
+a:link{ color:beige}
+fieldset{ width:50%;
+    background-color: aliceblue;
+}
+footer{ background-color: black;
+}
+ul{ color: beige;
+list-style: none;}
+*{margin:0;
+padding:0;}
+.container { max-width: 1170px;
+ margin:auto}
+ .row{display: flex;
+flex-wrap: wrap;}
+.fotter-col{ width: 40%;
+padding: 0 15px;
+}
+p{ font: size 110%;} 
+span{  font-size: 170%; text-decoration: underline;
+text-decoration-color: greenyellow; text-decoration-thickness:25%;
+}
+  
+
